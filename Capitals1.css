@@ -1,0 +1,9 @@
+h1 {
+	text-align: center; 
+	font-family: impact;
+	}
+.float_right {float:right; 
+			  margin-left: 10px;
+			  margin-right: 10px;
+			 }
+.BackgroundTitle {font-family: impact;}		 
