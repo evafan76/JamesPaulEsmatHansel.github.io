@@ -1,11 +1,15 @@
 h1 {
 	text-align: center; 
 	font-family: impact;
+	box-shadow: 10px 10px 10px #D80000;
 	}
 .float_right {float:right; 
 			  margin-left: 10px;
 			  margin-right: 10px;
 			 }
+.float_right {clear: both;}
 .BackgroundTitle {font-family: impact;}
 .HistoricVideos {font-family: impact;}	 
 figcaption {font-family:impact;}
+body {padding: 20px;}
+.DraftVideo {float: right;}
