@@ -19,7 +19,7 @@ figcaption {font-family:impact;}
 .DraftVideo {float: right;}
 .wrapper
 {
-	background-color: #FF0000;
+	background: linear-gradient(#E23D28, white);
 	padding-left: 20px;
 	padding-right: 20px;
 	box-shadow: 10px 10px 10px #D80000;
@@ -30,5 +30,11 @@ figcaption {font-family:impact;}
 
 .byline {font-style:italic; font-size:15px;}
 
-a:hover {color:#8B0000;
+a
+{
+	color: #0000A0;
+	text-decoration: none;
+}
+
+a:hover {color:#FFFFFF;
          text-decoration:underline;}
