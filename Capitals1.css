@@ -24,3 +24,10 @@ figcaption {font-family:impact;}
 	padding-right: 20px;
 	box-shadow: 10px 10px 10px #D80000;
 }
+
+.text {text-align:center; font-weight:bold; }
+
+.byline {font-style:italic; font-size:15px;}
+
+a:hover {color:#FF0000;
+         text-decoration:underline;}
