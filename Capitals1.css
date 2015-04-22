@@ -19,13 +19,15 @@ figcaption {font-family:impact;}
 .DraftVideo {float: right;}
 .wrapper
 {
-	background: linear-gradient(#E23D28, white);
 	padding-left: 20px;
 	padding-right: 20px;
-	box-shadow: 10px 10px 10px #D80000;
-	color: #0000A0;
 }
-
+.OuterWrapper
+{
+	background: linear-gradient(#E23D28, white);
+	color: #0000A0;
+	box-shadow: 10px 10px 10px #D80000;
+}
 .text {text-align:center; font-weight:bold; }
 
 .byline {font-style:italic; font-size:15px;}
