@@ -1,0 +1,65 @@
+body {
+	background-image: url("capsBG.png");
+	padding: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	color: #0000A0;
+}
+h1 {
+	text-align: center; 
+	font-family: impact;
+	}
+.float_right {float:right; 
+			  margin-left: 10px;
+			  margin-right: 10px;
+			 }
+.float_right {clear: both;}
+.BackgroundTitle {font-family: impact;}
+.HistoricVideos {font-family: impact;}	 
+figcaption {font-family:impact;}
+.DraftVideo {float: right;}
+.wrapper
+{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.OuterWrapper
+{
+	background: linear-gradient(#E23D28, white);
+	color: #0000A0;
+	box-shadow: 10px 10px 10px #D80000;
+}
+.text {text-align:center; font-weight:bold; }
+
+.byline {font-style:italic; font-size:15px;}
+
+a
+{
+	color: #0000A0;
+	text-decoration: none;
+}
+
+a:hover {color:#FFFFFF;
+         text-decoration:underline;}
+         
+.Head ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Head li {
+    display: inline;
+    /*width: 70px;*/
+    border-style: outset;
+    border-width: 5px;
+    padding-right:20px;
+    padding-left: 20px;
+    padding-top:10px;
+    font-family: Impact;
+    background-color: #0000A0;
+}
+.Head li a {
+	color: red;
+	font-size: xx-large;
+}
